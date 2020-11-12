@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/french-quiz/static/css/main.34af52b7.chunk.css",
+    "main.js": "/french-quiz/static/js/main.bcb30d58.chunk.js",
+    "main.js.map": "/french-quiz/static/js/main.bcb30d58.chunk.js.map",
+    "runtime-main.js": "/french-quiz/static/js/runtime-main.985255ad.js",
+    "runtime-main.js.map": "/french-quiz/static/js/runtime-main.985255ad.js.map",
+    "static/css/2.88229656.chunk.css": "/french-quiz/static/css/2.88229656.chunk.css",
+    "static/js/2.1df4f8c4.chunk.js": "/french-quiz/static/js/2.1df4f8c4.chunk.js",
+    "static/js/2.1df4f8c4.chunk.js.map": "/french-quiz/static/js/2.1df4f8c4.chunk.js.map",
+    "static/js/3.a9ce7627.chunk.js": "/french-quiz/static/js/3.a9ce7627.chunk.js",
+    "static/js/3.a9ce7627.chunk.js.map": "/french-quiz/static/js/3.a9ce7627.chunk.js.map",
+    "index.html": "/french-quiz/index.html",
+    "static/css/2.88229656.chunk.css.map": "/french-quiz/static/css/2.88229656.chunk.css.map",
+    "static/css/main.34af52b7.chunk.css.map": "/french-quiz/static/css/main.34af52b7.chunk.css.map",
+    "static/js/2.1df4f8c4.chunk.js.LICENSE.txt": "/french-quiz/static/js/2.1df4f8c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.985255ad.js",
+    "static/css/2.88229656.chunk.css",
+    "static/js/2.1df4f8c4.chunk.js",
+    "static/css/main.34af52b7.chunk.css",
+    "static/js/main.bcb30d58.chunk.js"
+  ]
+}
