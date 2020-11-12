@@ -1,0 +1,21 @@
+.container {
+  min-height: 400px;
+  min-width: 300px;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 20px;
+  box-shadow: 0px 0px 8px 6px #00000017;
+}
+.questionContainer {
+  text-align: left;
+  padding: 13px 8px;
+}
+.questionContainer .question {
+  margin-bottom: 8px;
+}
+.questionContainer .answerField {
+  min-width: 80%;
+  height: 32px;
+  padding: 8px;
+  box-sizing: border-box;
+}
