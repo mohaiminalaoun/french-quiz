@@ -1,0 +1,14 @@
+.text {
+    text-align: left;
+}
+.image {
+    max-width: 450px;
+    max-height: 400px;
+    min-height: 100px;
+    min-width: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 12px;
+    margin-top: 8px;
+
+}
